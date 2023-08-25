@@ -1,25 +1,25 @@
 // 应用全局配置
 module.exports = {
-  baseUrl: 'https://vue.ruoyi.vip/prod-api',
-  // baseUrl: 'http://localhost:8080',
+  // baseUrl: 'https://www.xhc-bot.com/prod-api',
+  baseUrl: 'http://localhost:9100',
   // 应用信息
   appInfo: {
     // 应用名称
-    name: "ruoyi-app",
+    name: "xhc-app",
     // 应用版本
-    version: "1.1.0",
+    version: "1.0.0",
     // 应用logo
-    logo: "/static/logo.png",
+    logo: "/static/logo-xhc-mini.png",
     // 官方网站
-    site_url: "http://ruoyi.vip",
+    site_url: "http://www.xhc-bot.com",
     // 政策协议
     agreements: [{
         title: "隐私政策",
-        url: "https://ruoyi.vip/protocol.html"
+        url: "https://www.xhc-bot.com/protocol.html"
       },
       {
         title: "用户服务协议",
-        url: "https://ruoyi.vip/protocol.html"
+        url: "https://www.xhc-bot.com/protocol.html"
       }
     ]
   }

@@ -1,8 +1,8 @@
 <template>
   <view class="content">
-    <image class="logo" src="@/static/logo.png"></image>
+    <image class="logo" src="@/static/logo-xhc-mini.png"></image>
     <view class="text-area">
-      <text class="title">Hello RuoYi</text>
+      <text class="title">Hello 小火车</text>
     </view>
   </view>
 </template>
